@@ -40,7 +40,7 @@ body {
 
 div {
     text-align: justify;
-    size: 27|%;
+    display:inline-block;
 }
 
 .fast {
