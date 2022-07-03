@@ -24,8 +24,8 @@ h3 {
 }
 
 body {
-    background-color: blanchedalmond;
-    display: flex;
+    background-image: url('world.png');
+    
 }
 
 .ses {
@@ -40,6 +40,7 @@ body {
 
 div {
     text-align: justify;
+    size: 27|%;
 }
 
 .fast {
