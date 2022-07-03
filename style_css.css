@@ -1,0 +1,47 @@
+p {
+    background-color: aqua;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h3 {
+    background-color: rgb(241, 132, 132);
+    font-style: italic;
+    text-align: center;
+}
+
+.dada {
+    color: red;
+}
+
+.kola {
+    border: 5px solid green;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 10px;
+    width: 27%;
+}
+
+body {
+    background-color: blanchedalmond;
+    display: flex;
+}
+
+.ses {
+    background-color: blue;
+    color: white;
+}
+
+.maj {
+    color: yellow;
+    background-color: violet;
+}
+
+div {
+    text-align: justify;
+}
+
+.fast {
+    color: green;
+}
